@@ -1,0 +1,17 @@
+{
+  "methods": {
+    "tts": {
+      "name": "Text To Speech",
+
+      "arguments": [
+        {
+          "type": "text",
+
+          "name": "Text",
+
+          "placeholder": "Text"
+        }
+      ]
+    }
+  }
+}
